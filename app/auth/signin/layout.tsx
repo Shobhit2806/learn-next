@@ -6,7 +6,7 @@ const layout = ({ children }: Readonly<{
   return (
     <div>
       <div>
-        20% off for next few days , Adding this only in SignIn folder pages
+        20% off for next few days , Adding this only in Signin folder pages
       </div>
       {children}
     </div>
